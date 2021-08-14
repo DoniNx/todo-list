@@ -10,7 +10,6 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "emmet": "2.3.4",
-    "tailwindcss": "2.2.7",
     "vue": "^3.0.0-0"
   },
   "devDependencies": {
